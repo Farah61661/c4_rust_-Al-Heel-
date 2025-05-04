@@ -8,4 +8,4 @@ cargo build
 
 cargo test
 
-cargo run -- test1.c
+cargo run -- src/test1.c
