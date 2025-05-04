@@ -11,3 +11,5 @@ Step 3: Build the project using `cargo build`
 For running test cases, use Step 4: `cargo test`
 
 If a separate file is needed for checking, run the following command in Step 5: `cargo run -- src/test.c` (ensure the path is correct).
+
+To run the compiler with a specific file, use the terminal command: ./c4 input.c
