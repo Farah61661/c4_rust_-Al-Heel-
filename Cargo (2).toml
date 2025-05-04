@@ -1,0 +1,10 @@
+[package]
+name = "c4_rust_al_heel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "c4"
+path = "src/c4.rs"
